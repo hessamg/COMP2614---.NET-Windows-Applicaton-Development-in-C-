@@ -1,0 +1,6 @@
+use .split method (.split('|') and then .split(':'))
+each line is one invoice
+validation is not a requirement (do it if you have time) and the information provided is only for formating 
+think about how to structure the classes
+for example have a class for header and another class for invoices
+dont forget to convert numerics to decimals so you can process them
